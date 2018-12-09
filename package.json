@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.16.4",
+    "moment": "^2.22.2",
     "node-boleto": "^2.0.6"
   }
 }
